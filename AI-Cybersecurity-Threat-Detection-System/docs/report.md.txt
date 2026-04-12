@@ -1,0 +1,8 @@
+# Project Report
+
+This project detects cyber threats using machine learning.
+
+Steps:
+- Data preprocessing
+- Model training
+- Threat detection
