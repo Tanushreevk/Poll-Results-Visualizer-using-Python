@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Virtual Environment
+venv/
+
+# Data (optional if large)
+data/
+
+# Outputs
+outputs/
+
+# System files
+.DS_Store
+
+# IDE
+.vscode/
+
+# Gradle (IMPORTANT)
+.gradle/
